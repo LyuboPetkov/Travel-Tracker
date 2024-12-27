@@ -39,7 +39,7 @@ Follow these steps to set up and run the application locally:
 
 5. **Configure Environment Variables:**
    - Create a `.env` file in the root directory.
-   - Add the required variables:
+   - Add the required variables
    
 6. **Run the Application:**
    ```bash
