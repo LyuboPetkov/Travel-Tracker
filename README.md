@@ -1,10 +1,10 @@
 # Travel Tracker
 
-Travel Tracker is an application that lets users fill-in the countires that they have visited. Users can add new people and see each person's visited countires.
+Travel Tracker is an application that lets users fill-in the countires that they have visited. Users can add new people and see each person's visited countries.
 
 ## Features
 
-- **Itinerary Management**: Create, edit, and delete travel destinations.
+- **Itinerary Management**: Fill each person's visited countries. Add new people and update the visited countries.
 - **Responsive Design**: Fill your and your frineds destinations and comapre them. Each user's destinations are filled with different color for easier comparison.
 
 ## Technologies Used
@@ -39,15 +39,8 @@ Follow these steps to set up and run the application locally:
 
 5. **Configure Environment Variables:**
    - Create a `.env` file in the root directory.
-   - Add the following variables:
-     ```
-     DB_USER=your_database_username
-     DB_PASSWORD=your_database_password
-     DB_HOST=localhost
-     DB_PORT=5432
-     DB_NAME=travel_tracker
-     ```
-
+   - Add the required variables:
+   
 6. **Run the Application:**
    ```bash
    npm start
